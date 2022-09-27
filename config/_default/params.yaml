@@ -17,14 +17,14 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: 'Chen Mengshis Team'
+    org_name: 'Chen Mengshi Team'
     description: 'A databse group of Chen Mengshi.'
     twitter: 'Chen Mengshi'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
   verification:
-    google: 'TRlEbpSc4cnJ8B82oii7B-rApI0YT4g5x5ghEH1tdQM'
+    google: 'google-site-verification=TRlEbpSc4cnJ8B82oii7B-rApI0YT4g5x5ghEH1tdQM'
     baidu: ''
 
 # Site header
